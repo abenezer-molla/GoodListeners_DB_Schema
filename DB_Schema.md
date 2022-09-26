@@ -1,6 +1,6 @@
 Tables
 
- - Listener's Columns
+Listener's Columns
    Columns
 
   - listner_id (int) - PRIMARY KEY
@@ -9,7 +9,7 @@ Tables
   - listner_email (string)
   - listner_phoneNumber (big_int)
 
-- Talker's Columns -- the person that shares
+Talker's Columns -- the person that shares
   Columns
 
   - talker_id(int) - PRIMARY KEY
