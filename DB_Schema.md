@@ -1,6 +1,7 @@
 Tables
 
  - Listener's Columns
+   Columns
 
   - listner_id (int) - PRIMARY KEY
   - listner_firstName (string)
@@ -9,6 +10,7 @@ Tables
   - listner_phoneNumber (big_int)
 
 - Talker's Columns -- the person that shares
+  Columns
 
   - talker_id(int) - PRIMARY KEY
   - doctor_id(string) - ForeignKey('Doctors.doctor_id')
