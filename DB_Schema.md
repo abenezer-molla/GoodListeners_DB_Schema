@@ -11,7 +11,7 @@ Listener's Columns
 Talker's Columns -- the person that shares
 
   - talker_id(int) - PRIMARY KEY
-  - doctor_id(string) - ForeignKey('Doctors.doctor_id')
+  - listner_id(string) - ForeignKey('Doctors.doctor_id')
   - talker_firstName(string)
   - talker_lastName(string)
   - talker_email(string)
